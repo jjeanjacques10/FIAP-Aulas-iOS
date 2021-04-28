@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FB9386D8-5F23-4D5F-BB9C-9C4ABB6B27BD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0813C791-76E1-4273-B2B0-70D30F22A17D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meus dados Swift/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0813C791-76E1-4273-B2B0-70D30F22A17D - 10e1a5ffa27a3dd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meus_dados_Swift.ViewController.lblNome.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Meus dados Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanbarros/Documents/FIAP/projects/Meus%20dados%20Swift/Meus%20dados%20Swift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "0813C791-76E1-4273-B2B0-70D30F22A17D - 1cc41a2e6020a12e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meus_dados_Swift.ViewController.lblNome.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Meus dados Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanbarros/Documents/FIAP/projects/Meus%20dados%20Swift/Meus%20dados%20Swift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "0813C791-76E1-4273-B2B0-70D30F22A17D - 60ede4160cb5b565"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meus_dados_Swift.ViewController.lblNome.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Meus dados Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanbarros/Documents/FIAP/projects/Meus%20dados%20Swift/Meus%20dados%20Swift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "0813C791-76E1-4273-B2B0-70D30F22A17D - b5cbbbbe72fb69fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meus_dados_Swift.ViewController.lblNome.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Meus dados Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanbarros/Documents/FIAP/projects/Meus%20dados%20Swift/Meus%20dados%20Swift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "0813C791-76E1-4273-B2B0-70D30F22A17D - c58ed7ff6d8ed059"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meus_dados_Swift.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Meus_dados_Swift.ViewController"
+                  moduleName = "Meus dados Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanbarros/Documents/FIAP/projects/Meus%20dados%20Swift/Meus%20dados%20Swift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "0813C791-76E1-4273-B2B0-70D30F22A17D - d9efd0c9260de5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meus_dados_Swift.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Meus_dados_Swift.ViewController&gt;"
+                  moduleName = "Meus dados Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanbarros/Documents/FIAP/projects/Meus%20dados%20Swift/Meus%20dados%20Swift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC28AA18-697C-4E73-B4F2-25E07B60B9AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meus dados Swift/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "exibir(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE531A68-1C0B-46E2-9AC2-6568D141FD08"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meus dados Swift/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "exibir(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2DF226C-492F-4E55-B2B6-F1A62667172A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meus dados Swift/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "exibir(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
